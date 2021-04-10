@@ -10,5 +10,5 @@ in this chalalnge we have candidates table as below:
 '6', 'senior', '20000'
 '7', 'senior', '30000'
 
- we have to find the maximum number of seniors and jouniors we can hire with in prefediend budget say 50,000
+we have to find the maximum number of seniors and jouniors we can hire with in prefediend budget say 50,000
  
